@@ -1,0 +1,8 @@
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\DADOS\Cotemig\LOGP\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
